@@ -15,7 +15,7 @@ class GalToLit {
   
   liters = gallons * 3.7854; // convert to liters
   
-  System.out.prinln(gallons + " gallons is " + liters + " liters.");
+  System.out.println(gallons + " gallons is " + liters + " liters.");
   
     }
   }
